@@ -4,3 +4,8 @@
 
 
 <br/>
+<br>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=J-MRodriguez&theme=radical)](https://git.io/streak-stats) 
+
+<br>
